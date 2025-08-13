@@ -1,91 +1,34 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=650&lines=Hi+there%2C+I'm+Debmalya+Sanyal+👋;Python+Developer+%7C+AI+Engineer;Machine+Learning+%7C+Backend+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=500&lines=Hi+there%2C+I'm+Debmalya+👋;Python+Developer+%7C+AI+Engineer;Machine+Learning+%7C+Backend+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
-# 📄 Debmalya Sanyal  
-**Python Developer – Machine Learning Engineer – AI Engineer**  
-
-📧 **Email:** [debmalyas.cse.jisu22@gmail.com](mailto:debmalyas.cse.jisu22@gmail.com)  
-📱 **Phone:** +91 8100145036  
-💻 **GitHub:** [github.com/DebmalyaSanyal](https://github.com/DebmalyaSanyal)  
-🔗 **LinkedIn:** [linkedin.com/in/debmalya-sanyal](https://www.linkedin.com/in/debmalya-sanyal)  
+# 💫 About Me  
+💻 Passionate about **AI, Machine Learning, and Backend Development**  
+⚡ Experienced in building **real-time AI-powered systems**  
+🚀 Constantly exploring **MLOps, NLP, and scalable architectures**  
+🎯 Goal: Create impactful tech solutions that solve real-world problems  
 
 ---
 
-## 🎯 Objective  
-Results-driven Python Developer and ML Engineer with **3+ virtual internships**. Experienced in deploying AI models using **Flask, Gradio, and Streamlit**. Strong in **NLP, Computer Vision**, and **cloud-based solutions**. Seeking to leverage skills in a growth-oriented tech firm.
+## 🛠️ Languages & Tools  
 
----
-
-## 💼 Work Experience  
-
-### **AI Researcher (ML, NLP, CV)** – Coding Jr *(Virtual Internship)*  
-📅 Feb 2024 – Apr 2025  
-- Led a team to create a **copilot** for company growth optimization (+15%).  
-- Developed predictive models using TensorFlow & Scikit-Learn (**+12% accuracy**).  
-- Deployed ML models with Flask & Docker.  
-
-### **Python Developer Intern** – VirtuNexa *(Virtual Internship)*  
-📅 Jan 2025 – Feb 2025  
-- Improved backend logic in Python/Flask (**-20% API response time**).  
-- Integrated RESTful APIs & optimized DB interactions.  
-- Debugged & refactored code (**+15% efficiency**).  
-
-### **Data Science Intern** – Pinnacle Labs *(Virtual Internship)*  
-📅 Dec 2024 – Jan 2025  
-- Conducted EDA & feature selection (**+15% model accuracy**).  
-- Built & deployed ML models using TensorFlow, Scikit-Learn, Flask, Docker.  
-
----
-
-## 🚀 Projects  
-
-- **Face Recognition using Karatsuba Algorithm & Vedic Math** – High-speed embedding comparisons with Keras FaceNet, MTCNN, OpenCV.  
-- **Real-Time Object Detection** – YOLOv3 + Streamlit; detection latency under **0.5s**, false positives reduced by 30%.  
-- **Diabetes Prediction Model** – Improved accuracy by **10%** via feature selection.  
-- **News Classification System** – AI-powered fake/true news detection.  
-- **OMR Checking System** – Automated evaluation with **98% mark detection accuracy**.  
-- **Parking Management System – PARKEASY** – Flask + Jinja2; secure login, cost calculation, slot tracking.  
-
----
-
-## 🎓 Education  
-
-- **B.Tech in Computer Science & Engineering** – JIS University, Kolkata *(Aug 2022 – Jul 2026)*  
-- **BS Diploma in Data Science & Programming** – IIT Madras *(Jan 2023 – Jul 2027)*  
-- **High School** – Assembly of God’s Church School, Kolkata *(2014 – 2022)*  
-
----
-
-## 📜 Certifications  
-
-- Artificial Intelligence Fundamentals – IBM SkillsBuild  
-- GenAI for Professionals – Udemy  
-- Foundational Level in Programming & Data Science – IIT Madras  
-- Prompt Engineering – Infosys Springboard Wingspan  
-- Python Concurrent Programming – Infosys Springboard Wingspan  
-
----
-
-## 🛠️ Technical Skills  
-
-**Programming Languages:** Python, C, SQL, JavaScript  
-**AI/ML:** TensorFlow, PyTorch, Scikit-Learn, NLP, Deep Learning, OpenCV, YOLO, FaceNet  
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, EDA  
-**Frameworks & Tools:** Flask, Django, Streamlit, Node.js, Git, Docker, Firebase  
-**Databases:** MySQL, MongoDB, Firebase  
-**DevOps & Deployment:** Flask APIs, Docker  
-**Soft Skills:** Leadership, Communication, Problem Solving, Time Management, Adaptability  
-
----
-
-## 🏆 Extra-Curricular Activities  
-
-- **Hack-o-Nova 2.0** – Designed OCR system for admission verification.  
-- **CodeSprint** – Built AI Interview System with Resume Parsing.  
-- **IgniteX 10** – Participated in coding & innovation challenges.  
-- **IMI Kolkata** – Explored startup problem-solving at tech fest.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A86B?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -112,7 +55,7 @@ Results-driven Python Developer and ML Engineer with **3+ virtual internships**.
 ## 🌐 Connect With Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debmalyaSanyal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debmalya-sanyal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debmalya-sanyal-19b0b1248/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debmalya_sanyal/)  
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8304-3747)  
 
