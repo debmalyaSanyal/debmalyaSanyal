@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Gradient Banner -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:ff8d1a&height=220&section=header&text=Debmalya%20Sanyal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Typing Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=FFDD55&center=true&vCenter=true&width=750&lines=Python+Developer+%7C+AI+Engineer;Machine+Learning+%7C+Backend+Systems;I+build+AI+that+ships+to+production." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=FFD166&center=true&vCenter=true&width=750&lines=Python+Developer+%7C+AI+Engineer;Machine+Learning+%7C+Backend+Systems;I+build+AI+that+ships+to+production." />
 
 <br/>
 
@@ -18,30 +18,30 @@
 
 ## 🌌 About Me
 
-I’m a **Python-first AI engineer** who likes systems that *work outside demos*.
+I’m a **Python-first AI engineer** who cares about systems that work **outside demos**.
 
 - 🧠 End-to-end AI: **data → model → backend → deployment**
 - ⚙️ Real-time systems over toy notebooks
-- 📈 Bias toward performance, clarity, and scale
-- 🔍 Currently deep into **MLOps, NLP systems, applied ML**
+- 📈 Strong bias toward performance and clarity
+- 🔍 Exploring **MLOps, NLP systems, applied ML**
 
-If it breaks in production, I’m not done yet.
+If it fails in production, it’s not done.
 
 ---
 
-## 🚀 Featured Projects (This Is the Good Stuff)
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🔐 Biometric Attendance System  
-**Face recognition + liveness detection**
+**Face recognition with liveness detection**
 
-- FaceNet (ONNX) embeddings + KNN
-- Blink-based liveness (MediaPipe)
-- Real-time webcam inference
-- Firebase-backed attendance logs
+- FaceNet (ONNX) embeddings + KNN  
+- Blink-based liveness (MediaPipe)  
+- Real-time webcam inference  
+- Firebase-backed attendance logs  
 
 **Stack:** Python, OpenCV, MediaPipe, FaceNet  
 🔗 https://github.com/debmalyaSanyal
@@ -50,14 +50,14 @@ If it breaks in production, I’m not done yet.
 <td width="50%">
 
 ### 🪖 Military Border Surveillance AI  
-**Threat detection & alerting system**
+**Automated threat detection & alerts**
 
-- Live object & person detection
-- Known vs unknown classification
-- Instant admin alerts
-- Low-latency design
+- Live object & person detection  
+- Known vs unknown classification  
+- Instant admin alerts  
+- Low-latency design  
 
-**Stack:** Python, CV, Deep Learning  
+**Stack:** Python, Computer Vision, DL  
 🔗 https://github.com/debmalyaSanyal
 
 </td>
@@ -67,12 +67,12 @@ If it breaks in production, I’m not done yet.
 <td width="50%">
 
 ### 🧠 Quantum-Enhanced Face Recognition  
-**Research-focused optimization**
+**Computation-aware similarity optimization**
 
-- MTCNN face alignment
-- FaceNet (512-D embeddings)
-- Landmark-based analysis
-- Toom–Cook fixed-point cosine similarity
+- MTCNN face alignment  
+- FaceNet (512-D embeddings)  
+- Landmark-based analysis  
+- Toom-Cook fixed-point cosine similarity  
 
 **Stack:** Python, Numerical Computing  
 🔗 https://github.com/debmalyaSanyal
@@ -83,10 +83,10 @@ If it breaks in production, I’m not done yet.
 ### 📓 MindMosaic  
 **AI-powered journaling & emotion analysis**
 
-- Emotion detection via NLP
-- Thought pattern extraction
-- Privacy-first backend
-- Insight-driven outputs
+- Emotion detection via NLP  
+- Thought pattern extraction  
+- Privacy-first backend  
+- Insight-driven outputs  
 
 **Stack:** Python, NLP, Transformers  
 🔗 https://github.com/debmalyaSanyal
@@ -97,7 +97,7 @@ If it breaks in production, I’m not done yet.
 
 ---
 
-## 🧩 Tech I Actually Use
+## 🧩 Tech Stack
 
 <div align="center">
 
@@ -126,7 +126,7 @@ If it breaks in production, I’m not done yet.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=debmalyaSanyal&theme=radical&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=debmalyaSanyal&theme=radical&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -135,8 +135,9 @@ If it breaks in production, I’m not done yet.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=debmalyaSanyal&show_icons=true&theme=radical"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debmalyaSanyal&layout=compact&theme=radical"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=debmalyaSanyal&show_icons=true&theme=radical" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debmalyaSanyal&layout=compact&theme=radical" />
 
 </div>
 
@@ -145,20 +146,20 @@ If it breaks in production, I’m not done yet.
 ## 🔥 Consistency
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debmalyaSanyal&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debmalyaSanyal&theme=radical" />
 </div>
 
 ---
 
 ## 📈 Activity Flow
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debmalyaSanyal&theme=redical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debmalyaSanyal&theme=radical" />
 
 ---
 
-## 🐍 Just for Fun (But Also Discipline)
+## 🐍 Contribution Snake
 
-<img src="https://github.com/debmalyaSanyal/debmalyaSanyal/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/debmalyaSanyal/debmalyaSanyal/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
