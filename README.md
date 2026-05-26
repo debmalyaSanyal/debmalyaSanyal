@@ -1,200 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:D4AF37&height=220&section=header&text=Debmalya%20Sanyal&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:111827,100:F59E0B&text=Debmalya%20Sanyal&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=Generative+AI+Analyst+%7C+AI%2FML+Engineer;Published+Researcher+(Springer+Discovery+AI);I+build+AI+systems+that+actually+work+in+production." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=F59E0B&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;AI%2FML+Engineer;Published+Springer+Researcher;Building+Production-Ready+AI+Systems" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=debmalyaSanyal&style=flat-square&color=D4AF37"/>
-<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=flat-square&color=FFD700"/>
-<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=flat-square&color=D4AF37"/>
+<a href="https://github.com/debmalyaSanyal">
+<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&color=f59e0b&labelColor=111827"/>
+</a>
+
+<a href="https://github.com/debmalyaSanyal">
+<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&color=f59e0b&labelColor=111827"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=debmalyaSanyal">
+<img src="https://komarev.com/ghpvc/?username=debmalyaSanyal&style=for-the-badge&color=f59e0b"/>
+</a>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# ⚡ About Me
 
-I don’t just build AI models — I build **systems that survive real-world constraints**.
+```python
+class DebmalyaSanyal:
 
-- ⚡ Generative AI Analyst working on LLM pipelines & production workflows  
-- 🧠 Published researcher (Springer Discovery AI) focused on **computational optimization**  
-- 👁️ Experience in real-time **computer vision + NLP systems**  
-- ⚙️ Strong focus on **latency, efficiency, and scalability**  
+    role = [
+        "Generative AI Engineer",
+        "AI/ML Engineer",
+        "Python Backend Developer"
+    ]
 
-What I’ve learned building systems:
-> Most AI fails not because of accuracy — but because it’s too slow, too heavy, or not deployable.
+    focus = [
+        "LLMs",
+        "Computer Vision",
+        "AI Agents",
+        "Optimization",
+        "Scalable AI Systems"
+    ]
 
-So I focus on:
-- End-to-end systems (not just models)
-- Optimization (not just implementation)
-- Real-world usability (not just demos)
+    philosophy = "AI should work in production, not just in demos."
+```
+
+I build AI systems focused on:
+- real-world deployment
+- inference optimization
+- scalable automation
+- production-ready architecture
+
+Currently working on:
+- ⚡ LLM workflows & AI agents
+- 🧠 Enterprise AI systems
+- 👁️ Computer vision pipelines
+- 🔬 Applied AI research
 
 ---
 
-# 🔬 Research
+# 🧠 Research Publication
 
-### 📄 Efficient Face Recognition via Mathematical Optimization
+## 📄 Efficient Face Recognition via Mathematical Optimization
 
-**Publication:** Springer Discovery Artificial Intelligence (2026)  
+Published in **Springer Nature — Discover Artificial Intelligence**
 
-- Reduced computational complexity from **O(n²) → O(n^1.585)**  
-- Achieved **50%+ faster computation**  
-- Improved efficiency for **edge AI systems**  
+### Key Contributions
+- Reduced computational complexity from:
+  
+```math
+O(n^2) \rightarrow O(n^{1.585})
+```
 
-📌 Focus: Making AI systems *actually deployable*, not just accurate  
+- Achieved:
+  - 50%+ faster computation
+  - lower inference latency
+  - improved edge-device efficiency
+
+📌 Research Focus:
+> Making AI systems computationally efficient and deployable in real-world environments.
+
+🔗 Paper:
+https://link.springer.com/article/10.1007/s44163-025-00820-w
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 Face Recognition System (Optimized)
-**"Reduced computation cost by 50%+ using mathematical optimization."**
+<table>
+<tr>
+<td width="50%">
 
-- FaceNet + MTCNN pipeline  
-- Karatsuba multiplication + Vedic math optimization  
-- Real-time embedding-based recognition  
+## 🔐 AI Face Recognition System
 
-**Impact:**
-- Faster similarity computation  
-- Edge-device friendly  
+### Highlights
+- FaceNet + MTCNN pipeline
+- Embedding optimization
+- Real-time recognition
 
-**Stack:** Python, OpenCV, FaceNet, NumPy  
+### Impact
+- Faster similarity computation
+- Lower processing overhead
 
----
+### Stack
+`Python` `OpenCV` `FaceNet`
 
-## 🎯 Real-Time Object Detection System
-**"Built a live detection system with real-time visualization."**
+</td>
 
-- YOLOv3 + OpenCV + Streamlit  
-- Live webcam inference  
-- Interactive dashboard  
+<td width="50%">
 
-**Impact:**
-- Real-time detection with smooth FPS  
-- Usable system, not just a model  
+## 🎯 Real-Time Object Detection
 
-**Stack:** YOLOv3, OpenCV, Streamlit  
+### Highlights
+- YOLOv3 inference system
+- Live webcam detection
+- Streamlit dashboard
 
----
+### Impact
+- Smooth FPS
+- Real-time visualization
 
-## 🧠 AI Interview Copilot System
-**"Automated interview evaluation using NLP + LLMs."**
+### Stack
+`YOLOv3` `OpenCV` `Streamlit`
 
-- Resume-based question generation  
-- Adaptive questioning logic  
-- Real-time feedback  
+</td>
+</tr>
 
-**Impact:**
-- Scalable interview system  
-- Reduced manual evaluation effort  
+<tr>
+<td width="50%">
 
-**Stack:** Python, NLP, LangChain, LLMs  
+## 🧠 AI Interview Copilot
 
----
+### Highlights
+- Resume-aware questioning
+- NLP evaluation pipeline
+- Adaptive interview logic
+
+### Stack
+`Python` `LLMs` `LangChain`
+
+</td>
+
+<td width="50%">
 
 ## 🪖 Military Surveillance AI
-**"Automated threat detection with real-time alerts."**
 
-- Object + person detection  
-- Unknown entity detection  
-- Alert system  
+### Highlights
+- Threat detection
+- Unknown entity alerts
+- Real-time monitoring
 
----
+### Stack
+`Computer Vision` `OpenCV`
 
-## 📓 MindMosaic
-**"AI journaling with emotion + pattern analysis."**
-
-- Emotion detection  
-- Thought pattern extraction  
-- Insight generation  
+</td>
+</tr>
+</table>
 
 ---
 
 # 💼 Experience
 
-### 🏢 Generative AI Analyst — iMerit
-- Working on production-level LLM systems  
-- Building scalable GenAI workflows  
-
-### 🏢 Generative AI Intern — Wavelaps
-- Improved efficiency by **30%**  
-- Reduced inference latency by **25%**  
-- Built LLM-based automation tools  
-
-### 🏢 AI Researcher — Coding Jr
-- Built enterprise AI copilot  
-- Increased engagement by **15%**  
-
-### 🏢 Python Developer — VirtuNexa
-- Improved API performance by **20%**  
-
-### 🏢 AI Intern — Infosys Springboard
-- Built multi-model AI agent for healthcare  
+| Role | Organization |
+|------|------|
+| Generative AI Analyst | iMerit |
+| Generative AI Engineer | Wavelaps |
+| AI Researcher | Coding Jr |
+| Python Developer | VirtuNexa |
+| AI Intern | Infosys Springboard |
 
 ---
 
-# 🧩 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Core
-Python • C • SQL  
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,mysql"/>
 
 ### AI / ML
-PyTorch • TensorFlow • OpenCV • NLP • Computer Vision  
-
-### Generative AI
-LLMs • LangChain • RAG • Prompt Engineering  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 ### Backend & Tools
-Flask • Django • Streamlit • Firebase • FAISS  
+<img src="https://skillicons.dev/icons?i=flask,django,firebase,git"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
-
-- 🧠 Published Researcher — Springer Discovery AI  
-- ⚡ Built multiple real-time AI systems  
-- 📉 Reduced ML computation complexity  
-- 🚀 Improved latency in production pipelines  
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=debmalyaSanyal&show_icons=true&theme=dark" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debmalyaSanyal&layout=compact&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=debmalyaSanyal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debmalyaSanyal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debmalyaSanyal&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debmalyaSanyal&theme=github-dark" />
-
----
-
-# 🌍 Connect
+# 🌐 Connect
 
 <div align="center">
-
-<a href="https://github.com/debmalyaSanyal">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="https://www.linkedin.com/in/debmalya-sanyal-19b0b1248/">
-<img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://orcid.org/0009-0005-8304-3747">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid"/>
+<a href="https://github.com/debmalyaSanyal">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -203,12 +225,8 @@ Flask • Django • Streamlit • Firebase • FAISS
 
 <div align="center">
 
-### 💬 Final Thought
-**“If an AI system can’t handle real-world constraints, it’s not finished.”**
-
-⭐ Star something if it helped  
-👀 Check the code — that’s where the real story is  
+### ⚡ Engineering AI systems that are fast, scalable, and deployable.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0B0B0B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F59E0B,50:111827,100:0F172A"/>
