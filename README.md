@@ -1,4 +1,7 @@
-<div align="center">
+<div align="center">                                                            
+  
+  
+  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Debmalya%20Sanyal&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Computer%20Vision%20Engineer%20|%20Generative%20AI%20Engineer&descAlignY=58&color=0:020617,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:00E5FF"/>
 
