@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Debmalya%20Sanyal&fontSize=54&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Generative%20AI%20Engineer%20|%20Computer%20Vision%20Engineer&descAlignY=58&color=0:020617,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:00E5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8&text=Debmalya%20Sanyal&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Generative%20AI%20Engineer%20•%20Computer%20Vision%20Engineer&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Computer+Vision+Engineer;Building+Production-Ready+AI+Systems;Deep+Learning+%7C+LLMs+%7C+Optimization"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Deep+Learning;Published+Springer+Researcher;Real-Time+AI+%7C+Inference+Optimization"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&color=38BDF8&labelColor=111827"/>
-<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827"/>
+<a href="https://github.com/debmalyaSanyal">
+<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&labelColor=0F172A&color=38BDF8"/>
+</a>
+
+<a href="https://github.com/debmalyaSanyal">
+<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&labelColor=0F172A&color=7C3AED"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=debmalyaSanyal">
 <img src="https://komarev.com/ghpvc/?username=debmalyaSanyal&style=for-the-badge&color=38BDF8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=debmalyaSanyal&theme=algolia&no-frame=true&row=1&column=6"/>
+</a>
 
 </div>
 
@@ -22,11 +26,9 @@
 
 # ⚡ About Me
 
-<div align="center">
-
-<img align="right" width="240" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
-
-</div>
+<table>
+<tr>
+<td width="65%">
 
 ```python
 class DebmalyaSanyal:
@@ -37,24 +39,32 @@ class DebmalyaSanyal:
         "AI Researcher"
     ]
 
-    expertise = [
-        "Large Language Models",
-        "Computer Vision",
+    focus = [
+        "LLMs",
         "Deep Learning",
-        "Optimization",
-        "AI Agents"
+        "AI Agents",
+        "Real-Time AI",
+        "Optimization"
     ]
 
     currently_building = [
         "Enterprise AI Copilots",
         "Production AI Systems",
-        "Real-Time AI Pipelines"
+        "Scalable ML Pipelines"
     ]
 
-    philosophy = "Build AI systems that survive production."
+    philosophy = "Build AI that works beyond demos."
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="35%">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/coding.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,11 +72,11 @@ class DebmalyaSanyal:
 
 <div align="center">
 
-## 📄 Efficient Face Recognition via Mathematical Optimization
+### 📄 Efficient Face Recognition via Mathematical Optimization
 
-<img src="https://img.shields.io/badge/SPRINGER-PUBLISHED-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FIRST_AUTHOR-YES-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_RESEARCH-ACTIVE-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Published-Springer%20Nature-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Role-First%20Author-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Optimization-blueviolet?style=flat-square"/>
 
 </div>
 
@@ -76,11 +86,11 @@ class DebmalyaSanyal:
 O(n^2) \rightarrow O(n^{1.585})
 ```
 
-### Key Contributions
-- ⚡ Reduced computation complexity by 50%+
-- 🚀 Improved real-time inference performance
-- 👁️ Optimized face recognition systems
-- 🖥️ Enhanced edge-device deployment efficiency
+### Highlights
+- Reduced computational complexity by **50%+**
+- Improved inference speed for real-time systems
+- Optimized deployment for edge AI environments
+- Enhanced face recognition efficiency
 
 🔗 https://link.springer.com/article/10.1007/s44163-025-00820-w
 
@@ -89,7 +99,6 @@ O(n^2) \rightarrow O(n^{1.585})
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%">
@@ -98,14 +107,14 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
+### Built With
+`Python` `OpenCV` `FaceNet`
+
 ### Features
 - FaceNet + MTCNN
-- Embedding Optimization
-- Real-Time Recognition
-- Faster Similarity Search
-
-### Stack
-`Python` `OpenCV` `FaceNet`
+- Real-time recognition
+- Embedding optimization
+- Faster similarity search
 
 </td>
 
@@ -115,14 +124,14 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8f2f-1c3f6d80d066.gif" width="100%"/>
 
-### Features
-- YOLOv3 Inference
-- Live Webcam Detection
-- Streamlit Dashboard
-- Real-Time FPS Monitoring
-
-### Stack
+### Built With
 `YOLOv3` `OpenCV` `Streamlit`
+
+### Features
+- Live webcam AI
+- Real-time FPS monitoring
+- Interactive dashboard
+- Object tracking
 
 </td>
 
@@ -136,14 +145,14 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-f7c9c74a-0f80-4f8d-847f-5c7f4d6b3f0c.gif" width="100%"/>
 
+### Built With
+`Python` `LangChain` `LLMs`
+
 ### Features
 - Resume-aware AI
-- NLP Evaluation
-- Adaptive Questioning
-- LLM Integration
-
-### Stack
-`Python` `LangChain` `LLMs`
+- NLP evaluation
+- Adaptive interviews
+- Automated feedback
 
 </td>
 
@@ -151,26 +160,27 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ## ⚡ Enterprise AI Copilot
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="100%"/>
+
+### Built With
+`Python` `Flask` `LLMs`
 
 ### Features
-- Workflow Automation
-- AI Agents
-- Enterprise Integration
-- Production AI Pipelines
-
-### Stack
-`Python` `Flask` `LLMs`
+- AI workflow automation
+- Enterprise integration
+- AI agents
+- Production pipelines
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 # 💼 Experience
+
+<div align="center">
 
 ```text
 🧠 Generative AI Analyst @ iMerit
@@ -179,6 +189,8 @@ O(n^2) \rightarrow O(n^{1.585})
 🔥 Python Developer @ VirtuNexa
 💡 AI Intern @ Infosys Springboard
 ```
+
+</div>
 
 ---
 
@@ -216,7 +228,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ---
 
-# 😂 Developer Survival Kit
+# 😂 Developer Moments
 
 <div align="center">
 
@@ -225,33 +237,33 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <td align="center">
 
-<img width="140" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img width="120" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-### Debugging at 3AM
-
-</td>
-
-<td align="center">
-
-<img width="140" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
-### Training Loss Drops
+##### Debugging
 
 </td>
 
 <td align="center">
 
-<img width="140" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/>
+<img width="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-### GPU Finally Works
+##### Loss Finally Drops
 
 </td>
 
 <td align="center">
 
-<img width="140" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"/>
+<img width="120" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"/>
 
-### Production Deployment
+##### Production Deploy
+
+</td>
+
+<td align="center">
+
+<img width="120" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/>
+
+##### GPU Works
 
 </td>
 
@@ -262,22 +274,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 🚀 Impact |
-|---|---|
-| Springer Nature Publication | Published First Author |
-| AI Optimization Research | Reduced Computational Complexity |
-| Production AI Systems | Real-Time Deployment |
-| Enterprise AI Copilots | Intelligent Workflow Automation |
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
@@ -299,10 +296,10 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <div align="center">
 
-## ⚡ Engineering AI Systems That Are Fast, Scalable, and Production-Ready
+### ⚡ Engineering AI Systems That Are Fast, Scalable, and Production-Ready
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:38BDF8,50:2563EB,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:38BDF8,50:2563EB,100:020617"/>
 
 </div>
