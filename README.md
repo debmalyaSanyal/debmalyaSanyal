@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Debmalya%20Sanyal&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Generative%20AI%20Engineer%20|%20Computer%20Vision%20Engineer%20|%20AI%20Researcher&descAlignY=58&color=0:020617,15:0F172A,35:1E3A8A,55:2563EB,75:38BDF8,100:00E5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Debmalya%20Sanyal&fontSize=54&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Generative%20AI%20Engineer%20|%20Computer%20Vision%20Engineer&descAlignY=58&color=0:020617,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:00E5FF"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=110&lines=Generative+AI+Engineer;Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Published+Springer+Researcher;AI+Optimization+%7C+Real-Time+Inference"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656986-5e95b6a1-fae8-47f6-bf0b-0f1f7a6df0e2.gif" width="780"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Computer+Vision+Engineer;Building+Production-Ready+AI+Systems;Deep+Learning+%7C+LLMs+%7C+Optimization"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A"/>
-<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A"/>
+<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&color=38BDF8&labelColor=111827"/>
+<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827"/>
 <img src="https://komarev.com/ghpvc/?username=debmalyaSanyal&style=for-the-badge&color=38BDF8"/>
 
 <br/><br/>
@@ -24,11 +20,11 @@
 
 ---
 
-# ⚡ AI Engineer Profile
+# ⚡ About Me
 
 <div align="center">
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
+<img align="right" width="240" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 </div>
 
@@ -43,31 +39,19 @@ class DebmalyaSanyal:
 
     expertise = [
         "Large Language Models",
-        "Deep Learning",
         "Computer Vision",
-        "AI Agents",
-        "Optimization"
+        "Deep Learning",
+        "Optimization",
+        "AI Agents"
     ]
 
     currently_building = [
         "Enterprise AI Copilots",
-        "Production AI Pipelines",
-        "Real-Time AI Systems"
+        "Production AI Systems",
+        "Real-Time AI Pipelines"
     ]
 
-    research_focus = [
-        "Inference Optimization",
-        "Computational Efficiency",
-        "Deployable AI Systems"
-    ]
-
-    philosophy = """
-    AI systems should be:
-    scalable,
-    efficient,
-    reliable,
-    production-ready
-    """
+    philosophy = "Build AI systems that survive production."
 ```
 
 <br clear="right"/>
@@ -78,13 +62,7 @@ class DebmalyaSanyal:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e3cb6ec-18b6-41c0-a2d4-3e1f0c0b1968.gif" width="90"/>
-
 ## 📄 Efficient Face Recognition via Mathematical Optimization
-
-### Published in Springer Nature — Discover Artificial Intelligence
-
-<br/>
 
 <img src="https://img.shields.io/badge/SPRINGER-PUBLISHED-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FIRST_AUTHOR-YES-success?style=for-the-badge"/>
@@ -94,38 +72,21 @@ class DebmalyaSanyal:
 
 <br/>
 
-<div align="center">
-
 ```math
 O(n^2) \rightarrow O(n^{1.585})
 ```
 
-</div>
-
-### 🔬 Research Highlights
-
-| Focus Area | Contribution |
-|---|---|
-| ⚡ Optimization | Reduced computation complexity |
-| 🚀 Inference | Improved real-time performance |
-| 👁️ Computer Vision | Faster recognition pipelines |
-| 🖥️ Edge AI | Better deployment efficiency |
-
-<br/>
+### Key Contributions
+- ⚡ Reduced computation complexity by 50%+
+- 🚀 Improved real-time inference performance
+- 👁️ Optimized face recognition systems
+- 🖥️ Enhanced edge-device deployment efficiency
 
 🔗 https://link.springer.com/article/10.1007/s44163-025-00820-w
 
 ---
 
-# 🚀 Featured AI Projects
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
-
-</div>
-
-<br/>
+# 🚀 Featured Projects
 
 <table>
 
@@ -141,7 +102,7 @@ O(n^2) \rightarrow O(n^{1.585})
 - FaceNet + MTCNN
 - Embedding Optimization
 - Real-Time Recognition
-- Fast Similarity Search
+- Faster Similarity Search
 
 ### Stack
 `Python` `OpenCV` `FaceNet`
@@ -157,8 +118,8 @@ O(n^2) \rightarrow O(n^{1.585})
 ### Features
 - YOLOv3 Inference
 - Live Webcam Detection
-- Real-Time FPS Monitoring
 - Streamlit Dashboard
+- Real-Time FPS Monitoring
 
 ### Stack
 `YOLOv3` `OpenCV` `Streamlit`
@@ -176,7 +137,7 @@ O(n^2) \rightarrow O(n^{1.585})
 <img src="https://user-images.githubusercontent.com/74038190/212749695-f7c9c74a-0f80-4f8d-847f-5c7f4d6b3f0c.gif" width="100%"/>
 
 ### Features
-- Resume-Aware AI
+- Resume-aware AI
 - NLP Evaluation
 - Adaptive Questioning
 - LLM Integration
@@ -190,7 +151,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ## ⚡ Enterprise AI Copilot
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBmbTBxY2NkNXR3aTVjMGlwMzBqMnh4N29jc2VkcjZub2R3NnZhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 
 ### Features
 - Workflow Automation
@@ -199,7 +160,7 @@ O(n^2) \rightarrow O(n^{1.585})
 - Production AI Pipelines
 
 ### Stack
-`LLMs` `Flask` `Python`
+`Python` `Flask` `LLMs`
 
 </td>
 
@@ -211,35 +172,12 @@ O(n^2) \rightarrow O(n^{1.585})
 
 # 💼 Experience
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debmalyaSanyal&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
 ```text
 🧠 Generative AI Analyst @ iMerit
-│
-├── Enterprise AI Workflows
-├── AI-Assisted Annotation Systems
-└── Production GenAI Pipelines
-
 ⚡ Generative AI Engineer @ Wavelaps
-│
-├── LLM Automation Systems
-├── Inference Optimization
-└── AI Workflow Engineering
-
 🚀 AI Researcher @ Coding Jr
-│
-├── Enterprise AI Copilot Systems
-└── ML Pipeline Engineering
-
 🔥 Python Developer @ VirtuNexa
-│
-└── Backend API Optimization
+💡 AI Intern @ Infosys Springboard
 ```
 
 ---
@@ -278,6 +216,52 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ---
 
+# 😂 Developer Survival Kit
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img width="140" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+### Debugging at 3AM
+
+</td>
+
+<td align="center">
+
+<img width="140" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
+### Training Loss Drops
+
+</td>
+
+<td align="center">
+
+<img width="140" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/>
+
+### GPU Finally Works
+
+</td>
+
+<td align="center">
+
+<img width="140" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"/>
+
+### Production Deployment
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 # 🏆 Achievements
 
 <div align="center">
@@ -286,7 +270,7 @@ O(n^2) \rightarrow O(n^{1.585})
 |---|---|
 | Springer Nature Publication | Published First Author |
 | AI Optimization Research | Reduced Computational Complexity |
-| Production AI Systems | Real-Time AI Deployment |
+| Production AI Systems | Real-Time Deployment |
 | Enterprise AI Copilots | Intelligent Workflow Automation |
 
 </div>
@@ -319,6 +303,9 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:38BDF8,50:2563EB,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:38BDF8,50:2563EB,100:020617"/>
 
-</div>
+</div>                                                            
+  
+  
+  
