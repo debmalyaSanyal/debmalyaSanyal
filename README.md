@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8&text=Debmalya%20Sanyal&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Generative%20AI%20Engineer%20•%20Computer%20Vision%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:22D3EE&text=Debmalya%20Sanyal&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Generative%20AI%20Engineer%20•%20Computer%20Vision%20Engineer&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Deep+Learning;Published+Springer+Researcher;AI+Optimization+%7C+Real-Time+Inference;Enterprise+AI+Copilots+%7C+AI+Agents"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Generative+AI+Engineer;Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Published+Springer+Researcher;Inference+Optimization+%7C+AI+Agents"/>
 
 <br/><br/>
 
 <a href="https://github.com/debmalyaSanyal">
-<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&labelColor=0F172A&color=38BDF8"/>
+<img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&labelColor=111827&color=38BDF8"/>
 </a>
 
 <a href="https://github.com/debmalyaSanyal">
-<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&labelColor=0F172A&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&labelColor=111827&color=8B5CF6"/>
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=debmalyaSanyal">
@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=debmalyaSanyal&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=debmalyaSanyal&theme=algolia&no-frame=true&column=6"/>
 
 </div>
 
@@ -44,34 +44,34 @@ class DebmalyaSanyal:
         "AI Researcher"
     ]
 
-    specialization = [
-        "Large Language Models",
+    expertise = [
+        "LLMs",
         "Computer Vision",
         "Deep Learning",
-        "AI Agents",
-        "Optimization"
+        "Inference Optimization",
+        "AI Agents"
     ]
 
     currently_building = [
         "Enterprise AI Copilots",
-        "Production AI Pipelines",
-        "Scalable AI Systems"
+        "Multi-Agent Systems",
+        "Production AI Pipelines"
     ]
 
-    research_focus = [
-        "Inference Optimization",
-        "Computational Efficiency",
-        "Deployable AI Systems"
-    ]
-
-    philosophy = "Build AI systems that work beyond demos."
+    philosophy = """
+    AI systems should be:
+    scalable,
+    efficient,
+    deployable,
+    production-ready
+    """
 ```
 
 </td>
 
 <td width="35%">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/coding.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%"/>
 
 </td>
 
@@ -88,27 +88,31 @@ class DebmalyaSanyal:
 
 <img src="https://img.shields.io/badge/Published-Springer%20Nature-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/Role-First%20Author-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Optimization-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-AI%20Optimization-blueviolet?style=flat-square"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ```math
 O(n^2) \rightarrow O(n^{1.585})
 ```
 
-### 🔬 Key Contributions
-- Reduced computational complexity by **50%+**
-- Improved real-time inference performance
-- Optimized deployment for edge AI systems
-- Enhanced face recognition efficiency
+</div>
+
+### Key Contributions
+- ⚡ Reduced computation complexity by **50%+**
+- 🚀 Improved inference speed for real-time systems
+- 🖥️ Optimized deployment for edge AI environments
+- 👁️ Enhanced face recognition efficiency
 
 🔗 https://link.springer.com/article/10.1007/s44163-025-00820-w
 
 ---
 
-# 🚀 Featured AI Projects
+# 🚀 Featured Projects
 
 <table>
 
@@ -120,11 +124,11 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
-### Features
-- FaceNet + MTCNN
+### Highlights
+- FaceNet + MTCNN pipeline
 - Embedding optimization
 - Real-time recognition
-- Faster similarity search
+- Fast similarity search
 
 ### Stack
 `Python` `OpenCV` `FaceNet`
@@ -137,10 +141,10 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8f2f-1c3f6d80d066.gif" width="100%"/>
 
-### Features
-- YOLOv3 inference
+### Highlights
+- YOLOv3 inference engine
 - Live webcam AI
-- Real-time object tracking
+- Real-time tracking
 - Streamlit dashboard
 
 ### Stack
@@ -158,7 +162,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-f7c9c74a-0f80-4f8d-847f-5c7f4d6b3f0c.gif" width="100%"/>
 
-### Features
+### Highlights
 - Resume-aware AI
 - NLP evaluation
 - Adaptive interviews
@@ -175,7 +179,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="100%"/>
 
-### Features
+### Highlights
 - AI workflow automation
 - Enterprise integrations
 - AI agents
@@ -200,15 +204,15 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <td width="50%">
 
-## 🤖 Multi-Agent Enterprise AI System
+## 🤖 Multi-Agent Enterprise AI
 
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%"/>
 
 ### Features
 - Multi-agent reasoning
+- RAG pipelines
 - Workflow orchestration
-- Retrieval-Augmented Generation
-- Memory-aware AI pipelines
+- Memory-aware systems
 
 ### Stack
 `LangChain`
@@ -225,10 +229,10 @@ O(n^2) \rightarrow O(n^{1.585})
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
 
 ### Features
-- Async inference pipelines
+- Async inference
 - GPU optimization
 - Tensor batching
-- Low-latency AI execution
+- Low-latency execution
 
 ### Stack
 `PyTorch`
@@ -244,15 +248,15 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <td width="50%">
 
-## 👁️ Computer Vision Surveillance Platform
+## 👁️ AI Surveillance Platform
 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%"/>
 
 ### Features
 - Threat detection
 - Unknown entity recognition
-- Real-time AI alerts
-- Multi-camera processing
+- AI-based monitoring
+- Real-time alert pipelines
 
 ### Stack
 `YOLOv3`
@@ -263,20 +267,20 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <td width="50%">
 
-## 🧩 Generative AI Workflow Automation
+## 🧩 Generative AI Automation
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 
 ### Features
 - Prompt pipelines
-- AI chaining
 - Semantic retrieval
-- Workflow orchestration
+- Workflow automation
+- AI orchestration
 
 ### Stack
 `LLMs`
-`LangChain`
 `FastAPI`
+`LangChain`
 
 </td>
 
@@ -336,7 +340,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ---
 
-# 😂 Developer Reality
+# 😂 Developer Moments
 
 <div align="center">
 
@@ -346,55 +350,39 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <td align="center">
 
-<img width="120" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img width="110" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-##### Debugging Production
-
-</td>
-
-<td align="center">
-
-<img width="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
-##### Loss Finally Drops
+##### Debugging
 
 </td>
 
 <td align="center">
 
-<img width="120" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"/>
+<img width="110" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-##### Docker Works First Try
+##### Training Loss Drops
 
 </td>
 
 <td align="center">
 
-<img width="120" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/>
+<img width="110" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"/>
 
-##### GPU Drivers Installed
+##### Deployment Success
+
+</td>
+
+<td align="center">
+
+<img width="110" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/>
+
+##### GPU Finally Works
 
 </td>
 
 </tr>
 
 </table>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 🚀 Impact |
-|---|---|
-| Springer Nature Publication | Published First Author |
-| AI Optimization Research | Reduced Computational Complexity |
-| Production AI Systems | Real-Time AI Deployment |
-| Enterprise AI Copilots | Workflow Automation |
-| Computer Vision Systems | Scalable CV Pipelines |
 
 </div>
 
