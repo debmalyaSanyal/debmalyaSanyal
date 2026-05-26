@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Debmalya%20Sanyal&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Computer%20Vision%20Engineer%20|%20Generative%20AI%20Engineer&descAlignY=56&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Debmalya%20Sanyal&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Computer%20Vision%20Engineer%20|%20Generative%20AI%20Engineer&descAlignY=58&color=0:020617,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:00E5FF"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Vision+Engineer;Generative+AI+Engineer;Building+Production-Ready+AI+Systems;Deep+Learning+%7C+LLMs+%7C+Optimization"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Vision+Engineer;Generative+AI+Engineer;Published+Springer+Researcher;Building+Production-Ready+AI+Systems;Deep+Learning+%7C+LLMs+%7C+Optimization"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/github/followers/debmalyaSanyal?style=for-the-badge&logo=github&color=38BDF8&labelColor=111827"/>
 <img src="https://img.shields.io/github/stars/debmalyaSanyal?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827"/>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRpbm51dDJpdTF4dTFnNGVvNmd6eGVkbjFvNmN2ZHB0cGd6bDV2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" width="240" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 </div>
 
@@ -37,21 +37,21 @@ class DebmalyaSanyal:
         "AI Researcher"
     ]
 
-    interests = [
-        "LLMs",
+    specialization = [
         "Deep Learning",
-        "AI Agents",
+        "LLMs",
+        "Real-Time AI",
         "Optimization",
-        "Real-Time AI"
+        "AI Agents"
     ]
 
     currently_building = [
-        "Enterprise AI Systems",
-        "Production AI Pipelines",
-        "Computer Vision Applications"
+        "Enterprise AI Copilots",
+        "Production AI Systems",
+        "Computer Vision Pipelines"
     ]
 
-    motto = "Build AI that survives production."
+    philosophy = "AI should survive production, not just demos."
 ```
 
 <br clear="right"/>
@@ -77,16 +77,24 @@ O(n^2) \rightarrow O(n^{1.585})
 ```
 
 ### Key Contributions
-- ⚡ Reduced computation cost by 50%+
-- 🚀 Improved inference performance
-- 🖥️ Optimized for edge AI systems
-- 👁️ Enhanced real-time face recognition efficiency
+- ⚡ Reduced computation time by 50%+
+- 🚀 Faster inference pipelines
+- 🖥️ Optimized edge-device deployment
+- 👁️ Improved real-time face recognition efficiency
 
 🔗 https://link.springer.com/article/10.1007/s44163-025-00820-w
 
 ---
 
 # 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
+
+</div>
+
+<br/>
 
 <table>
 
@@ -96,12 +104,13 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ## 🔐 AI Face Recognition
 
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 ### Features
 - FaceNet + MTCNN
 - Real-time recognition
 - Embedding optimization
+- Faster similarity search
 
 ### Stack
 `Python` `OpenCV` `FaceNet`
@@ -112,11 +121,12 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ## 🎯 Real-Time Object Detection
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8f2f-1c3f6d80d066.gif" width="100%"/>
 
 ### Features
-- YOLOv3 detection
+- YOLOv3 inference
 - Live webcam AI
+- Real-time detection
 - Streamlit dashboard
 
 ### Stack
@@ -132,12 +142,13 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ## 🧠 AI Interview Copilot
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f7c9c74a-0f80-4f8d-847f-5c7f4d6b3f0c.gif" width="100%"/>
 
 ### Features
 - Resume-aware AI
 - NLP evaluation
-- Adaptive interviews
+- Adaptive questioning
+- LLM workflows
 
 ### Stack
 `Python` `LangChain` `LLMs`
@@ -148,12 +159,13 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ## 🪖 Military Surveillance AI
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656986-5e95b6a1-fae8-47f6-bf0b-0f1f7a6df0e2.gif" width="100%"/>
 
 ### Features
 - Threat detection
 - Unknown entity alerts
 - Real-time monitoring
+- AI-based surveillance
 
 ### Stack
 `Computer Vision` `OpenCV`
@@ -168,6 +180,8 @@ O(n^2) \rightarrow O(n^{1.585})
 
 # 💼 Experience
 
+<div align="center">
+
 ```text
 🧠 Generative AI Analyst @ iMerit
 ⚡ Generative AI Engineer @ Wavelaps
@@ -175,6 +189,8 @@ O(n^2) \rightarrow O(n^{1.585})
 🔥 Python Developer @ VirtuNexa
 💡 AI Intern @ Infosys Springboard
 ```
+
+</div>
 
 ---
 
@@ -186,7 +202,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <br/><br/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debmalyaSanyal&theme=tokyonight"/>
 
 </div>
 
@@ -196,13 +212,13 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=debmalyaSanyal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=debmalyaSanyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debmalyaSanyal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debmalyaSanyal&theme=react-dark&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debmalyaSanyal&theme=tokyo-night&hide_border=true"/>
 
 <br/><br/>
 
@@ -219,7 +235,7 @@ O(n^2) \rightarrow O(n^{1.585})
 | 🏆 Achievement | 🚀 Impact |
 |---|---|
 | Springer Nature Publication | Published First Author |
-| AI Optimization Research | Reduced Complexity |
+| AI Optimization Research | Reduced Computational Complexity |
 | Production AI Systems | Real-Time Deployment |
 | Enterprise AI Copilots | Workflow Automation |
 
@@ -227,7 +243,7 @@ O(n^2) \rightarrow O(n^{1.585})
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -253,6 +269,6 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:38BDF8,50:2563EB,100:020617"/>
 
 </div>
