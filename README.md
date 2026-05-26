@@ -305,7 +305,4 @@ O(n^2) \rightarrow O(n^{1.585})
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:38BDF8,50:2563EB,100:020617"/>
 
-</div>                                                            
-  
-  
-  
+</div>
