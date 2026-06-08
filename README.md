@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Generative+AI+Engineer;Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Published+Springer+Researcher;Inference+Optimization+%7C+AI+Agents"/>
 
+<h3 align="center">
+🌐 Portfolio: <a href="https://tinyurl.com/Debmalya101">tinyurl.com/Debmalya101</a>
+</h3>
+
 <br/><br/>
 
 <a href="https://github.com/debmalyaSanyal">
@@ -72,6 +76,7 @@ class DebmalyaSanyal:
 <td width="35%">
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%"/>
+
 
 </td>
 
