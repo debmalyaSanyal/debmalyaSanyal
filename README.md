@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
+  <a href="https://keen-dusk-7790fa.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-Visit_Website-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/debmalya-sanyal-19b0b1248/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://paper-alpha-eta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-PaperAlpha-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:debmalyasanyal17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -45,6 +45,20 @@ I'm a Computer Science postgraduate student and AI/ML practitioner passionate ab
 
 ---
 
+## 🌐 My Personal Portfolio
+
+<p align="center">
+  <a href="https://keen-dusk-7790fa.netlify.app/">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Visit my personal portfolio to explore my background, technical skills, projects, research, and professional journey.
+</p>
+
+---
+
 ## 🎓 Education
 
 | Qualification | Institution |
@@ -56,7 +70,7 @@ I'm a Computer Science postgraduate student and AI/ML practitioner passionate ab
 
 ## 💼 Professional Experience
 
-**Generative AI Analyst — iMerit**
+### Generative AI Analyst — iMerit
 
 Working with AI-focused workflows and technologies, with interests in generative AI, language models, data quality, and AI evaluation.
 
@@ -139,6 +153,7 @@ I am the first author of a research paper published in Springer.
 📖 [Read My Published Research](https://link.springer.com/article/10.1007/s44163-025-00820-w)
 
 Research interests:
+
 - Artificial Intelligence and Machine Learning
 - Intelligent systems
 - Applied AI research
@@ -147,12 +162,14 @@ Research interests:
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
 </p>
 
 ### AI / ML / Deep Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
@@ -160,11 +177,13 @@ Research interests:
 `Scikit-learn` · `XGBoost` · `Hugging Face` · `LangChain` · `FAISS` · `Transformers` · `Faster-Whisper`
 
 ### Frameworks & Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,streamlit,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,docker,git,github,vscode" />
 </p>
 
 ### Databases & Cloud
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,vercel" />
 </p>
@@ -218,7 +237,7 @@ Research interests:
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" alt="Programming frustration meme" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" alt="Programming frustration animation" />
 </p>
 
 ---
@@ -228,6 +247,9 @@ Research interests:
 I'm always interested in collaborating on projects involving **Generative AI, Agentic AI, Machine Learning, Computer Vision, NLP, and research-driven applications**.
 
 <p align="center">
+  <a href="https://keen-dusk-7790fa.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-Visit-8A2BE2?style=for-the-badge&logo=netlify" />
+  </a>
   <a href="https://www.linkedin.com/in/debmalya-sanyal-19b0b1248/">
     <img src="https://img.shields.io/badge/LinkedIn-Debmalya_Sanyal-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
